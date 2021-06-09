@@ -1,0 +1,22 @@
+body{
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: center;
+
+}
+
+main{
+  background-color: burlywood;
+  position: fixed;
+  width: auto;
+  top: 5%;
+  bottom: 5%;
+  left: auto;
+    border: 3px dashed blue;
+}
+
+button{
+  color: white;
+  background-color: crimson;
+}
